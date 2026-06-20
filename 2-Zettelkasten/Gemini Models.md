@@ -10,3 +10,8 @@ publish:
 Gemini models are useful when you want a strong general-purpose model with good multimodal support.
 The main choice is usually about latency, cost, and how much reasoning depth you need.
 For comparison notes, keep one use case per line so the differences stay visible.
+Image Generation inside gemini
+
+[[Index - Computer Vision|Computer Vision]]
+[[Index - AI]]
+[[Index - LLM|llm]]

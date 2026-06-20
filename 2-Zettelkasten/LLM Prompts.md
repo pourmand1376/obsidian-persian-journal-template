@@ -10,3 +10,6 @@ publish:
 LLM prompts work best when the task is framed as a concrete output, not a general discussion.
 A strong prompt reduces ambiguity by naming the audience, the tone, and the success criteria.
 When a prompt fails, rewrite it with fewer hidden assumptions.
+
+[[Index - LLM]]
+[[Index - AI]]

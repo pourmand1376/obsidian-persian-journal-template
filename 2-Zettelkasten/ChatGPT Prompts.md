@@ -10,3 +10,6 @@ publish:
 Good prompts give role, task, constraints, and output format in one clear request.
 For ChatGPT, short context plus explicit examples often works better than long vague instructions.
 Keep the prompt specific enough that the model can answer without guessing the goal.
+
+[[Index - AI]]
+[[Index - LLM]]

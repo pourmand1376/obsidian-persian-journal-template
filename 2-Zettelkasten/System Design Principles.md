@@ -10,3 +10,5 @@ publish:
 System design principles focus on tradeoffs like scalability, reliability, and maintainability.
 The best design usually makes the common path simple and the failure path explicit.
 Good notes here should capture the principle and one concrete example.
+
+[[Index - Software]]

@@ -10,3 +10,5 @@ publish:
 What is a matrix?
 An actual matrix is a rectangular grid of numbers used to represent linear relationships.
 It can store transformations, systems of equations, or data tables in a compact form.
+
+[[Index - Math]]

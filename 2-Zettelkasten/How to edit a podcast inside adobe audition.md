@@ -10,3 +10,5 @@ publish:
 Start by cleaning noise, trimming silence, and setting rough cuts on the timeline.
 Then balance levels, add fades, and export in the format the platform needs.
 Podcast editing is mostly about making speech feel smooth and consistent.
+
+[[Index - Software]]
